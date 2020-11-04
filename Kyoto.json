@@ -1,0 +1,46 @@
+{    "dsc.att.000.diffuse_redness": {
+        "dsc.val.000.diffuse_redness": "RAC (Regular Arrangement of Collecting Venules) сохранен по всей поверхности слизистой",
+        "dsc.val.001.diffuse_redness": "RAC (Regular Arrangement of Collecting Venules) лоцируется нечетко (+1 балл)",
+        "dsc.val.003.diffuse_redness": "RAC (Regular Arrangement of Collecting Venules) утрачен на всей поверхности слизистой (+2 балла)"
+    },
+    "dsc.att.000.nodularity": {
+        "dsc.val.000.nodularity": "",
+        "dsc.val.001.nodularity": ", в антральном отделе слизистая нодулярная (+1 балл)"
+    },
+    "dsc.att.000.enlaged_folds": {
+        "dsc.val.000.enlaged_folds": ", складки желудка по большой кривизне не увеличены (не более 5 мм)",
+        "dsc.val.001.enlaged_folds": ", складки желудка по большой кривизне увеличены (более 5 мм - (+1 балл))"
+    },
+    "dsc.att.000.atrophy": {
+        "dsc.val.000.atrophy": "",
+        "dsc.val.001.atrophy": ", имеются признаки атрофии слизистой антрального отдела, F-линия ниже угла желудка (тип C(закрытый) I по Kimura-Takemoto)",
+        "dsc.val.002.atrophy": ", имеются признаки атрофии слизистой антрального отдела, F-линия ниже средней трети тела по малой кривизне (тип C(закрытый) II по Kimura-Takemoto) (+1 балл)",
+        "dsc.val.003.atrophy": ", имеются признаки атрофии слизистой нижних отделов ,  F-линия выше средней трети тела по малой кривизне (тип C(закрытый) III по Kimura-Takemoto) (+1 балл)",
+        "dsc.val.004.atrophy": ", имеются признаки диффузной атрофии слизистой желудка,   F-линия между малой кривизной и передней стенкой желудка (тип O(открытый) I по Kimura-Takemoto) (+2 балла)",
+        "dsc.val.005.atrophy": ", имеются признаки диффузной атрофии слизистой желудка,   F-линия проходит по передней стенке желудка (тип O(открытый) II по Kimura-Takemoto) (+2 балла)",
+        "dsc.val.006.atrophy": ", имеются признаки диффузной атрофии слизистой желудка,   F-линия между большой кривизной и передней стенкой желудка (тип O(открытый) III по Kimura-Takemoto) (+2 балла)"
+    },
+    "dsc.att.000.intestinal_metaplasia": {
+        "dsc.val.000.intestinal_metaplasia": "",
+        "dsc.val.001.intestinal_metaplasia": ", в антруме лоцируются очаги кишечной метаплазии (+1 балл)",
+        "dsc.val.002.intestinal_metaplasia": ", в антруме и теле лоцируются очаги кишечной метаплазии (+2 балла)"
+    },
+    "dsc.att.000.kyoto_total_score": {
+        "dsc.val.001.kyoto_total_score": ". Общая оценка по Киотской шкале - 1",
+        "dsc.val.002.kyoto_total_score": ". Общая оценка по Киотской шкале - 2",
+        "dsc.val.003.kyoto_total_score": ". Общая оценка по Киотской шкале - 3",
+        "dsc.val.004.kyoto_total_score": ". Общая оценка по Киотской шкале - 4",
+        "dsc.val.005.kyoto_total_score": ". Общая оценка по Киотской шкале - 5",
+        "dsc.val.006.kyoto_total_score": ". Общая оценка по Киотской шкале - 6",
+        "dsc.val.008.kyoto_total_score": ". Общая оценка по Киотской шкале - 7",
+        "dsc.val.009.kyoto_total_score": ". Общая оценка по Киотской шкале - 8"
+    },
+    "dsc.txt.000.000": "Итак, <dsc.att.000.diffuse_redness><dsc.000.att.nodularity><dsc.att.000.enlaged_folds><dsc.att.000.atrophy><dsc.att.000.intestinal_metaplasia><dsc.att.000.kyoto_total_score>",
+    "clr.txt.000.000": "<biopsy><hptest><chromoscopy><virtualchromoscopy>",
+    "mnp.txt.000.000": "",
+    "bgn": {
+        "001": "dsc",
+        "002": "clr",
+        "003": "mnp"
+            }
+}
